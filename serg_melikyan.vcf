@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=en-us:Melikyan;Serg
+FN:Serg Melikyan
+ORG:Mirantis, Inc.
+TITLE:Software Engineer
+URL;HOME:http://serg.melikyan.me
+EMAIL;PREF;INTERNET:serg.melikyan@gmail.com
+REV:20121026T144011Z
+END:VCARD
