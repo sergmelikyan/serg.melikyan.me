@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/sergmelikyan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://serg.melikyan.me
+  * I am sergmelikyan (https://keybase.io/sergmelikyan) on keybase.
+  * I have a public key with fingerprint 9957 DD85 25D1 F4B9 6A5B  F2A6 3123 51D4 4BE4 9D8E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101233fd53006ca3276ecbd0df019d42883101ac4a7d3475f9583d4abe61792d7a20a",
+            "fingerprint": "9957dd8525d1f4b96a5bf2a6312351d44be49d8e",
+            "host": "keybase.io",
+            "key_id": "312351d44be49d8e",
+            "kid": "0101233fd53006ca3276ecbd0df019d42883101ac4a7d3475f9583d4abe61792d7a20a",
+            "uid": "199b7b36123dc62cd317e66a8e3f0700",
+            "username": "sergmelikyan"
+        },
+        "service": {
+            "hostname": "serg.melikyan.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465580236,
+    "expire_in": 157680000,
+    "prev": "f6c2f9b801485374a41f47d024c3cd56011deace678c93525f572f50acd05d21",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJbSBRRGMfXdDMXxbKSqCwaMqjMzsyZM5ft/tKFregCWSZtZ+acWUe3
+nb2MuouJ9GBbFD0YUdEFjOweEd3djJIudLeUUCQye0gq6KHwoaI6Iwk99Nh5Obff
+/3++7zvf3Zx0lyftVsTt3rqoryPt8Z2jVa6S0m9PajnNIgnOW8tV0sGJBgmN2f5K
+k3BeDvCAFyA0CIIASDqGgixRXSOAGIBXiSgoCmQI1kUsEyjKyFCRAomINSrxsioQ
+GQsAc0WcYYYCNBqOmiGb2aoqkglRkIAIb4iaKmGkGQKWIHsM8UQUNSqqRKFMWG7F
+HAULTsMxWmxa7Ixt/IPh/YP/z3FXDdrxqqrJGpSYJ9ElQSeQl6kkYYVCA8gAOGCM
+RkN4C2U0WwW20KBZmcAhrq7I2VebOnWK62TzF1U8hLEF8whHLdvSrSC7LbftsNcR
+24mwQ9dQzf/Hx6+ZIcLKyQTVNBozrRDn5Rmp26ZjzIsSQgoQoFTE0XjYjFK/6RBI
+lhTAhvMMrWaWhqQLhqopgBcVBGURi+wvZAIEUYc6QRLgeUKxTiVZ0VXI/spAsmAg
+gHUCEBF4zsksErI4L2Jh4oCTkxkIYbsqSrm6tttlGa40j2u4e5jTZi5P1sih5jsb
+yfxVktFVvnLTtjkXD33ZPurMiRkLBt4kD7wUK1aVTUu9X+1bu6jwSnpTKr5Di628
+fHPiw4H0Pd2+EWcL8ruaC/KWnEzVD6xIPWuc2hL/Gph1ri/n+LVZFdfDk3deeH3i
+Wk5WdiT7cCLoA2PfLZ6kXrWeNmw4f8qVu9+tbC7c2LKppMNK/uxp3HVk4/hi4eTj
+3pmfp4/osQ++uD+uuXPyj5GvlnZmS1/GwJ7chkd3a+Yu/dRY09863J95Se491o+S
+ud03wq33PpyfDheWNWUapctb9n6c376m7fuU5M4HsfXLUk88u31teTfenutXWhvW
+fWjfdwTP/nQ6vqZ+dF5taeW8/Lop4cC9Cc9/A0mEP3g=
+=GXIl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sergmelikyan
+
+==================================================================
+
